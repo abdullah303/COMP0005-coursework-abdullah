@@ -1,0 +1,22 @@
+
+3 : [30, 32]
+left: 
+    1 : [[10, 12]]
+    left: 
+        0 : [[0, 2]]
+        left: None
+        right: None
+    right: 
+        2 : [[20, 22]]
+        left: None
+        right: None
+right: 
+    5 : [50, 52]
+    left: 
+        4 : [[40, 42]]
+        left: None
+        right: None
+    right: 
+        6 : [60, 62]
+        left: None
+        right: None
